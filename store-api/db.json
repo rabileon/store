@@ -1,0 +1,226 @@
+{
+  "users": [
+    {
+      "id": "7ec3d2f0-641e-11e9-9d5d-1b8ad05606d1",
+      "password": "$2y$12$fjSaObmlh2mKX7MtEZlzquqyTJCUDtGXm8a4UCY88lc0sGBNcoLFq",   
+      "favs": [
+        "18",
+        "1"
+      ],
+      "avatar": "https://gravatar.com/avatar/8e04be7dab487d77f16969fd3e0d45d4",
+      "email": "rabi@gmail.com"
+    },
+    {
+      "id": "a882e1d0-6428-11e9-9b1f-8980b7d40890",
+      "password": "$2y$12$fjSaObmlh2mKX7MtEZlzquqyTJCUDtGXm8a4UCY88lc0sGBNcoLFq",
+      "favs": [
+        "18",
+        "16",
+        "1",
+        "15"
+      ],
+      "avatar": "https://gravatar.com/avatar/3bccd59be0a57b39bdd9b2760702795e",
+      "email": "admin@gmail.com"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Playeras",
+      "cover": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325fd3741864c4d.jpg",
+      "path": "/products/playeras"
+    },
+    {
+      "id": 2,
+      "name": "Camisas",
+      "cover": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325e7ba0f75898a.jpg",
+      "path": "/products/camisas"
+    },
+    {
+      "id": 3,
+      "name": "Jeans",
+      "cover": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325fd6a6fbb44a1.jpg",
+      "path": "/products/jeans"
+    },
+    {
+      "id": 4,
+      "name": "Bermudas",
+      "cover": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325fa88f220694b.jpg",
+      "path": "/products/bermudas"
+    },
+    {
+      "id": 5,
+      "name": "Chamarras",
+      "cover": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325fa88fdfce009.jpg",
+      "path": "/products/chamarras"
+    },
+    {
+      "id": 6,
+      "name": "Carteras",
+      "cover": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325fd0e519bed7a.jpg",
+      "path": "/products/carteras"
+    }
+  ],
+  "products": [
+    {
+      "id": 0,
+      "categoryId": 2,
+      "src": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325ea8d9e398219.jpg",
+      "userId": 100,
+      "likes": 7,
+      "price": 380.00
+    },
+    {
+      "id": 1,
+      "categoryId": 1,
+      "src": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325ee929913286a.jpg",
+      "userId": 1,
+      "likes": 45,
+      "price": 100.00
+    },
+    {
+      "id": 15,
+      "categoryId": 4,
+      "src": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325ee941da0a4a7.jpg",
+      "userId": 1,
+      "likes": 1,
+      "price": 350.00
+    },
+    {
+      "id": 18,
+      "categoryId": 5,
+      "src": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325fc96fce91b22.jpg",
+      "userId": 2,
+      "likes": 15,
+      "price": 450.00
+    },
+    {
+      "id": 16,
+      "categoryId": 6,
+      "src": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325fd16b6d3f2af.jpg",
+      "userId": 1,
+      "likes": 1,
+      "price": 100.00
+    },
+    {
+      "id": 7,
+      "categoryId": 2,
+      "src": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325fa88f014b9c0.jpg",
+      "userId": 1,
+      "likes": 40,
+      "price": 350.00
+    },
+    {
+      "id": 12,
+      "categoryId": 3,
+      "src": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325fd6a5e58e3da.jpg",
+      "userId": 3,
+      "likes": 6,
+      "price": 280.00
+    },
+    {
+      "id": 13,
+      "categoryId": 1,
+      "src": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325fa88e94c78b6.jpg",
+      "userId": 1,
+      "likes": 7,
+      "price": 100.00
+    },
+    {
+      "id": 11,
+      "categoryId": 3,
+      "src": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325ef50d2a5b548.jpg",
+      "userId": 1,
+      "likes": 40,
+      "price": 290.00
+    },
+    {
+      "id": 5,
+      "categoryId": 2,
+      "src": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325fadcf01b41a2.jpg",
+      "userId": 1,
+      "likes": 0,
+      "price": 450.00
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "src": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325fb88875907a9.jpg",
+      "userId": 1,
+      "likes": 3,
+      "price": 150.00
+    },
+    {
+      "id": 9,
+      "categoryId": 2,
+      "src": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325e7bf016deef6.jpg",
+      "userId": 1,
+      "likes": 0,
+      "price": 480.00
+    },
+    {
+      "id": 8,
+      "categoryId": 2,
+      "src": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325fa88ee2b9149.jpg",
+      "userId": 1,
+      "likes": 0,
+      "price": 520.00
+    },
+    {
+      "id": 3,
+      "categoryId": 1,
+      "src": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325fb888a26af35.jpg",
+      "userId": 1,
+      "likes": 7,
+      "price": 120.00
+    },
+    {
+      "id": 19,
+      "categoryId": 3,
+      "src": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325e2758be57a84.jpg",
+      "userId": 1,
+      "likes": 0,
+      "price": 390.00
+    },
+    {
+      "id": 4,
+      "categoryId": 3,
+      "src": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325ed011f11f7b5.jpg",
+      "userId": 1,
+      "likes": 27,
+      "price": 370.00
+    },
+    {
+      "id": 10,
+      "categoryId": 3,
+      "src": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325ecc7ec5cb770.jpg",
+      "userId": 1,
+      "likes": 0,
+      "price": 380.00
+    },
+    {
+      "id": 17,
+      "categoryId": 5,
+      "src": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325f933ee04f100.jpg",
+      "userId": 1,
+      "likes": 21,
+      "price": 430.00
+    },
+    {
+      "id": 6,
+      "categoryId": 1,
+      "src": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325fd190c897cdf.jpg",
+      "userId": 1,
+      "likes": 0,
+      "price": 140.00
+    },
+    {
+      "id": 20,
+      "categoryId": 1,
+      "src": "https://dsnegsjxz63ti.cloudfront.net/images/pg/g_325fd3b7f3c8062.jpg",
+      "userId": 1,
+      "likes": 0,
+      "price": 100.00
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "store-api",
+  "version": "1.0.0",
+  "description": "API para reto de Platzi Master",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "now -t <tu-token>",
+    "start:api": "NODE_ENV=production node index.js",
+    "dev:api": "nodemon index.js --ignore db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rabi Leonel León Chan",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server-express": "2.5.0",
+    "bcrypt": "3.0.6",
+    "cors": "2.8.5",
+    "express": "4.17.0",
+    "express-jwt": "5.3.1",
+    "graphql": "14.3.0",
+    "jsonwebtoken": "8.5.1",
+    "lowdb": "1.0.0",
+    "uuid": "3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}

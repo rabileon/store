@@ -1,0 +1,53 @@
+{
+  "name": "store",
+  "version": "1.0.0",
+  "description": "Reto el curso react avanzado",
+  "main": "webpack.config.js",
+  "scripts": {
+    "now-build": "npm run build",
+    "build": "webpack",
+    "lint": "standard",
+    "dev": "webpack-dev-server --history-api-fallback",
+    "serve:dev": "webpack --mode 'development' && npx serve dist -s",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@reach/router": "^1.3.4",
+    "apollo-boost": "^0.4.9",
+    "graphql": "^15.3.0",
+    "intersection-observer": "^0.11.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-apollo": "^3.1.5",
+    "react-dom": "^16.13.1",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^3.11.0",
+    "styled-components": "^5.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/preset-react": "^7.10.4",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.1.0",
+    "html-webpack-plugin": "^4.5.0",
+    "standard": "^14.3.4",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0",
+    "webpack-pwa-manifest": "^4.0.0",
+    "workbox-webpack-plugin": "^6.0.2"
+  },
+  "standard": {
+    "ignore": [
+      "/store-api/**"
+    ]
+  },
+  "eslintConfig": {
+    "extends": [
+      "./node_modules/standard/eslintrc.json"
+    ]
+  },
+  "author": "Rabi Leonel León Chan",
+  "license": "MIT"
+}
